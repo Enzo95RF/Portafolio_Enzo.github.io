@@ -10,7 +10,7 @@
 }
 
 #navbar{
-    padding: 2%;
+    padding: 1%;
     text-align:center;
     position: relative;
     color: #fff;
@@ -21,7 +21,7 @@
 }
 
 #navsocial{
-    padding: 2%;
+    padding: 1%;
     text-align:center;
     position: relative;
     color: #fff;
@@ -48,7 +48,7 @@
 
 .titulo{
     width: auto;
-    font-size: 450%;
+    font-size: 420%;
     color: white;
     padding-right: 5%;
     padding-left: 5%;
@@ -57,7 +57,7 @@
 
 .subtitulo{
     width: auto;
-    font-size: 200%;
+    font-size: 190%;
     color: white;
     padding-right: 5%;
     padding-left: 5%;
@@ -179,7 +179,7 @@
 
 .conte-proy figure:hover > .capa h2{
     margin-top: 150px;
-    margin-bottom: 0px;
+    margin-bottom: 1px;
 }
 
 .conte-proy figure .capa h2{
@@ -199,14 +199,14 @@
 }
 
 .tit-por p {
-    font-size: 150%;
+    font-size: 120%;
     color: white;
 }
 
 .t-portfolio{
     color: rgb(102, 103, 171);
     width: 100%;
-    font-size: 250%;
+    font-size: 230%;
     letter-spacing: 4rem;
     opacity: 0;
     transition: all 0.5s;     
